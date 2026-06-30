@@ -1,0 +1,6 @@
+# Optional runtime dependencies for tools/knowledge_updater.py
+# Core stdlib only is required; the packages below enable richer fetching.
+requests>=2.28        # HTTP fetch backend (preferred, lightweight)
+beautifulsoup4>=4.11  # HTML parsing backend (preferred, lightweight)
+crawl4ai>=0.3.0       # optional heavier crawler backend (degrades gracefully)
+feedparser>=6.0       # optional RSS backend (not enabled by default)

@@ -1,0 +1,15 @@
+{
+  "SSRN": [
+    {"title": "Non-compete enforceability across US states (survey)", "url": "https://ssrn.com", "jur": "US", "finding": "jurisdiction variance"},
+    {"title": "Boilerplate terms and consumer surprise", "url": "https://ssrn.com", "jur": "GEN", "finding": "hidden-term risk"},
+    {"title": "Indemnity clauses and risk allocation in 2025", "url": "https://ssrn.com", "jur": "GEN", "finding": "risk-allocation trend"}
+  ],
+  "ABA": [
+    {"title": "ABA drafting principles for clear contracts", "url": "https://americanbar.org", "jur": "GEN", "finding": "drafting clarity"},
+    {"title": "ABA guidance on arbitration clause fairness", "url": "https://americanbar.org", "jur": "US", "finding": "dispute resolution"}
+  ],
+  "Cornell LII": [
+    {"title": "Cornell LII: unconscionability definition", "url": "https://law.cornell.edu", "jur": "GEN", "finding": "doctrine overview"},
+    {"title": "Cornell LII: liquidated damages overview", "url": "https://law.cornell.edu", "jur": "US", "finding": "remedy doctrine"}
+  ]
+}
